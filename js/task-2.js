@@ -1,6 +1,6 @@
 //Задача 2. Форматирование сообщений
 function formatMessage(message, maxLength) {
-    //решение
+//решение :
     if (message.length <= maxLength) {
         return message;
     } 
